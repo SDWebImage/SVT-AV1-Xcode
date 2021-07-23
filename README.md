@@ -47,6 +47,8 @@ Use svt-av1 as you would normally, this is just a repo that adds an Xcode proj.
 
 For Swift Package Manager user, it's recommended to use the modular import instead of C headers.
 
+Note you should use `svt_av1` instead of `svt-av1` when using modular import.
+
 + Objective-C
 
 ```objective-c
@@ -58,7 +60,7 @@ For Swift Package Manager user, it's recommended to use the modular import inste
 + Swift
 
 ```swift
-import svt-av1
+import svt_av1
 ```
 
 ## License
