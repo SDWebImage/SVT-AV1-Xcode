@@ -1,0 +1,3 @@
+[submodule "SVT-AV1"]
+	path = SVT-AV1
+	url = https://gitlab.com/AOMediaCodec/SVT-AV1.git
