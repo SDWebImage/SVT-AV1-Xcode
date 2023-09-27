@@ -39,5 +39,5 @@ The Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder) is an AV1-co
     'HEADER_SEARCH_PATHS' => '$(inherited) ${PODS_ROOT}/svt-av1/SVT-AV1/third_party/fastfeat ${PODS_TARGET_SRCROOT}/SVT-AV1/third_party/fastfeat ${PODS_ROOT}/svt-av1/generate ${PODS_TARGET_SRCROOT}/generate',
     'WARNING_CFLAGS' => '$(inherited) -Wno-documentation -Wno-conditional-uninitialized -Wno-strict-prototypes -Wno-comma'
   }
-  s.preserve_paths = 'SVT-AV1/Source', 'SVT-AV1/API', 'SVT-AV1/third_party', 'generate'
+  s.preserve_paths = 'SVT-AV1/Source', 'SVT-AV1/API', 'SVT-AV1/third_party', 'generate', 'include'
 end
