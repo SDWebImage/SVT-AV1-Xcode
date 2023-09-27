@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'svt-av1'
-  s.version          = '0.8.7'
+  s.version          = '0.9.0'
   s.summary          = 'Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)'
 
 # This description is used to generate tags and improve search results.
